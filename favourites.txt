@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 dosa 
 BIryani 
+=======
+Bahubali 
+Darling
+>>>>>>> movies
